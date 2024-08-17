@@ -1,4 +1,4 @@
-const BASE_URL ="https://open.er-api.com/v6/latest/EUR";
+const BASE_URL ="https://2024-03-06.currency-api.pages.dev/v1/currencies/eur.json";
 
 const dropdowns = document.querySelectorAll(".dropdown select");
 const btn = document.querySelector("form button");
